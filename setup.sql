@@ -1,0 +1,4 @@
+SHOW DATABASES;
+USE referralDB;
+SHOW TABLES;
+DESCRIBE referrals;
